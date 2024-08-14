@@ -16,17 +16,16 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Metaversus" textStyles="text-center" />
+      <TypingText title="| About    ZULU   FASION" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
-        <span className="font-extrabold text-white">
+        <span className="font-extrabold text-white">The </span> new age
+        technology solution, your business deserves. Build your online store &
+        reach your audience online. Partner with emerging Brands.{' '}
+        {/* <span className="font-extrabold text-white">
           madness of the metaverse
         </span>{' '}
         of today, using only{' '}
@@ -34,7 +33,7 @@ const About = () => (
         easily explore the metaverse world you want, turn your dreams into
         reality. Let's{' '}
         <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        of the metaverse by scrolling down */}
       </motion.p>
 
       <motion.img

@@ -21,7 +21,9 @@ const WhatsNew = () => (
         className="flex-[0.95] flex justify-center flex-col"
       >
         <TypingText title="| Whats new?" />
-        <TitleText title={<>What's new about Metaversus?</>} />
+        <TitleText
+          title={<>Why choose Zulu Club over other website creators?</>}
+        />
         <div className="mt-[48px] flex flex-wrap justify-between gap-[24px]">
           {newFeatures.map((feature) => (
             <NewFeatures key={feature.title} {...feature} />

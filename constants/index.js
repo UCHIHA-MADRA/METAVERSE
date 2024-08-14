@@ -2,69 +2,70 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Branded website & mobile app',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'Digital catalog, orders & team',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Loyalty, CRM & Marketing',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'B2B Market & Bulk Enquiries',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Brand partnerships & more',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Find a template that you love & customize every inch of it',
+  'Digitize your catalog-products, collections, marketing content, banners',
+  'Go Live-grow your business from your mobile app in partnership with brands',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Fashion Focussed',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'We are the only solution tailor-made for Indian Fashion businesses, all our competitors offer generic solutions',
+  },
+
+  {
+    imgUrl: '/headset.svg',
+    title: '10x Better product',
+    subtitle:
+      'Our website is way more powerful, it has countless more features & we are a club and offer much more than a website',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: '80% cHEAPER',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      'Zulu prices are much lower with 0 sales comissions. We will be useful every hour & yet will be your smallest monthly bill',
   },
 ];
-
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
-    subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+    title: 'Create professional catalogs & banners with our AI Templates',
   },
+
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
-    subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+    title: 'Offer truly out of the world experience like Try at Home',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
-    subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+    title: 'Intelligent product positioning & B2B sourcing with AI Recommends',
   },
 ];
 
